@@ -1,1 +1,2 @@
-# Exam1
+Framework sử dụng : Spring Boot
+Database : MySQL
